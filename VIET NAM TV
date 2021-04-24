@@ -1,0 +1,209 @@
+#EXTM3U url-tvg="http://gg.gg/epgvn00" refresh="3600" m3uautoload=1 cache=500 deinterlace=1 tvg-shift=0 
+
+
+
+#EXTINF:-1 tvg-id="htv1" group-title="VIET NAM TV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/1586931-logo-htv1a.png" type="stream", HTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="htv2" group-title="VIET NAM TV" tvg-logo="http://chungxda.github.io/logo/HTV2_logo.png" type="stream", HTV2 - Vie Channel | VieON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://chungxda.github.io/m3u8/VieON/HTV2VieChannel.m3u8
+#EXTINF:-1 tvg-id="htv3" group-title="VIET NAM TV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/7068413-logo-htv3a.png" type="stream", HTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="htvkey" group-title="VIET NAM TV" tvg-logo="https://i.postimg.cc/LSvDpMKV/htvkey.png" type="stream", HTV Key
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="htv7hd" group-title="VIET NAM TV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/8986847-logo-htv7a.png" type="stream", HTV7 | VieON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://chungxda.github.io/m3u8/VieON/HTV7HD.m3u8
+#EXTINF:-1 tvg-id="htv9hd" group-title="VIET NAM TV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/2931478-logo-htv9a.png" type="stream", HTV9 | VieON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://chungxda.github.io/m3u8/VieON/HTV9HD.m3u8
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="VIET NAM TV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/13/1028005-logo-htvthethao.png" type="stream",HTV Thể Thao | VieON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://chungxda.github.io/m3u8/VieON/HTVTheThao.m3u8
+#EXTINF:-1 tvg-id="htvc_coop" group-title="VIET NAM TV" tvg-logo="http://htvc.vn/uploads/channel/2016/08/31/7613159-htv-coop.png" type="stream",HTV CO.OP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://livecdn.fptplay.net/sda/htvcoop_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="htvc_fbnc" group-title="VIET NAM TV" tvg-logo="http://img.hplus.com.vn/226x127/poster/2018/06/05/906484-FBNC.png" type="stream",FBNC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="htvc_thuan_viet" group-title="VIET NAM TV" tvg-logo="http://htvc.vn/uploads/channel/2016/03/14/3061231-logoc-thuanviet.png" type="stream",HTVC Thuần Việt SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://livecdn.fptplay.net/hda/htvcthuanviet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="htvc_thuan_viet_hd" group-title="VIET NAM TV" tvg-logo="http://htvc.vn/uploads/channel/2017/02/20/9667644-9189649-htvc-th.png" type="stream",HTVC Thuần Việt HD | VieON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://chungxda.github.io/m3u8/VieON/HTVCThuanVietHD.m3u8
+#EXTINF:-1 tvg-id="htvc_phu_nu" group-title="VIET NAM TV" tvg-logo="http://htvc.vn/uploads/channel/2016/10/20/425058-logo-phunu-fina.png" type="stream",HTVC Phụ Nữ | VieON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://chungxda.github.io/m3u8/VieON/HTVCPhuNu.m3u8
+#EXTINF:-1 tvg-id="htvc_phim_hd" group-title="VIET NAM TV" tvg-logo="http://htvc.vn/uploads/channel/2017/04/10/563560-logo-kenh-phim-.png" type="stream",HTVC Phim | VieON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://chungxda.github.io/m3u8/VieON/HTVCPhim.m3u8
+#EXTINF:-1 tvg-id="htvc_ca_nhac" group-title="VIET NAM TV" tvg-logo="http://htvc.vn/uploads/channel/2017/04/10/2028200-ca-nhac-01.png" type="stream",HTVC Ca Nhạc | VieON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://chungxda.github.io/m3u8/VieON/HTVCCaNhac.m3u8
+#EXTINF:-1 tvg-id="htvc_du_lich_cuoc_song" group-title="VIET NAM TV" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/9681507-logo-htvc-dulic.png" type="stream",HTVC Du Lịch & Cuộc Sống | VieON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://chungxda.github.io/m3u8/VieON/HTVCDuLichCuocSong.m3u8
+#EXTINF:-1 tvg-id="htvc_gia_dinh" group-title="VIET NAM TV" tvg-logo="http://htvc.vn/uploads/channel/2018/06/06/3590945-logo-htvc-gia-d.png" type="stream",HTVC Gia Đình | VieON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://chungxda.github.io/m3u8/VieON/HTVCGiaDinh.m3u8
+#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="VIET NAM TV" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2019-05-22/6833055-9051942-plus.png" type="stream",HTVC Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://livecdn.fptplay.net/sdb/htvcplus_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/08/02/451568-logo_htvc_shopping.png" type="stream",HTVC Shopping
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8
+
+
+
+
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://imgur.com/Jod5zk5.png",BTV1 HD (Truyền hình Bình Dương)
+https://livecdn.fptplay.net/hda/btv1_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/18/245539-444791-BTV2.png",BTV2 HD (Truyền hình Bình Dương)
+https://livecdn.fptplay.net/hda/btv2_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://imgur.com/bAszEEm.png ",BTV4 - iMovie HD (Truyền hình Bình Dương)
+https://livecdn.fptplay.net/hda/btv4hd_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://rsstv.gviet.vn/sctv/159/130/1581298778597.png",BTV9 Bình Dương - An Viên TV (Bchannel) | VieON
+http://chungxda.github.io/m3u8/VieON/AnVienTV.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://i.upanh.org/2020/08/22/NCM_BTV10_logo.png",BTV10 - NCM (Truyền hình Bình Dương)
+https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="http://img.btv.org.vn:81/upload/vod/25032020/1585128658_btv11.png",BTV11 (Truyền hình Bình Dương)
+https://livecdn.fptplay.net/sda/btv11_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/711.png",THBT - Truyền hình Bến Tre
+https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/941.png",BLTV - Truyền hình Bạc Liêu
+https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="http://www.thdt.vn/wp-content/uploads/2018/11/logo2-1.png",THĐT1 HD - Truyền hình Đồng Tháp 1
+http://202.43.109.142:1935/THDT/thdttv/chunklist_w1195574471.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://lh3.googleusercontent.com/-CAU3uxyoAhE/WYneLOOOMUI/AAAAAAAADkQ/30PaTCdBYeslH-_aOXHSp2EsTj9taHAvgCLcBGAs/h5000/201349-mien.tay_.png",Miền Tây - Truyền hình Đồng Tháp 2
+http://202.43.109.145:1935/thdt2/thdt2/chunklist.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/691.png",CTV - Truyền hình Cà Mau
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/671.png",ATV - Truyền hình An Giang
+https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/631.png",THTG - Truyền hình Tiền Giang
+http://thtg.vn:8001/stream_hi.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/951.png",HGV - Truyền hình Hậu Giang
+https://livecdn.fptplay.net/sda/haugiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="http://ttv11.vn/public/Home/images/logotayninh.png",TTV11 - Truyền hình Tây Ninh
+http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/841.png",THTV - Truyền hình Trà Vinh
+https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/601.png", ĐNRTV1 - Truyền hình Đồng Nai 1
+https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/602.png", ĐNRTV2 - Truyền hình Đồng Nai 2
+https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/651.png",THTPCT - Truyền hình Cần Thơ
+https://tv.canthotv.vn/live/tv/tv.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/04/894592-KienGiang.png",Truyền hình Kiên Giang 
+http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/683.png",Truyền hình Kiên Giang 1
+http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="http://img.hplus.com.vn/355x200/poster/2019/07/08/592943-THVL-1HD-460x260.png",THVL1 - Truyền hình Vĩnh Long 1
+https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/07/08/152364-THVL-2HD-460x260.png",THVL2 - Truyền hình Vĩnh Long 2
+https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/29.png",THVL3 - Truyền hình Vĩnh Long 3
+https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/57.png",THVL4 - Truyền hình Vĩnh Long 4
+https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/80/QTV1_HD.png/revision/latest/scale-to-width-down/205?cb=20200822125307&path-prefix=vi",QTV1 - Truyền hình Quảng Ninh
+http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567244539061.png",QTV3 - Truyền hình Quảng Ninh
+http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/190.png",Truyền hình Hà Nội 1
+http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/193.png,Truyền hình Hà Nội 2
+http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="http://bacgiangtv.vn/templates/frontend/bgtv/Assets/img/logo.png",Truyền hình Bắc Giang
+http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/892.png",Truyền hình Hưng Yên
+http://cdn.hytv.mediatech.vn/hytvlive/tv1live.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="http://laocaitv.vn/lib/images/footer-logo.png",Truyền hình Lào Cai
+https://livecdn.fptplay.net/sdc/laocai_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="http://yenbaitv.org.vn/modules/frontend/themes/ptthyb/images/logo.png",Truyền hình Yên Bái
+http://yenbaitv.org.vn//hls/livestream.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/261.png",STV - Truyền hình Sơn La
+https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/221.png",TTV - Truyền hình Tuyên Quang
+https://live.tuyenquangtv.vn/hls/ttv.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/192.png",Truyền hình Phú Thọ
+https://livecdn.fptplay.net/sda/phutho_2000.stream/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://nbtv.vn/templates/frontend/nbtv/Assets/img/logo.png",Truyền hình Ninh Bình
+https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/161.png",THP - Truyền hình Hải Phòng
+https://live.thhp.vn/thp/index.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%2B_HD.webp",THP+ - Truyền hình Hải Phòng +
+https://live.thhp.vn/hls/thpplus/index.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/992.png",Truyền hình Bắc Ninh
+http://203.171.21.203:1935/live/smil:BTV.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/181.png",Truyền hình Nam Định
+https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="http://hanamtv.vn/template/default/images/logo.png",Truyền hình Hà Nam
+https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/881.png",Truyền hình Vĩnh Phúc
+http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/271.png",Truyền hình Điện Biên
+https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/111.png",CRTV - Truyền hình Cao Bằng
+https://livecdn.fptplay.net/sda/caobang_1000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/971.png",TBK - Truyền hình Bắc Kạn
+http://113.160.162.131:8080/tv/bk.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="http://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png",Truyền hình Thái Nguyên
+http://thainguyentv.vn/hls/livestream.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="http://thaibinhtv.vn/templates/frontend/tbtv/Assets/img/logo.png",Truyền hình Thái Bình
+http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944958841.png",THD - Truyền hình Hải Dương
+http://113.191.41.62/live.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/231.png",HGTV - Truyền hình Hà Giang
+https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/361.png",TTV - Truyền hình Thanh Hóa
+http://113.191.41.62/live.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/382.png",HTTV - Truyền hình Hà Tĩnh
+http://hatinhtv.vn:82/hls/httv.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/phpKczJ13_5d75cc55e9d4a.png",Truyền hình Nghệ An
+https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="http://www.drt.danang.vn/images/drt1.png",DaNangTV1 - Truyền hình Đà Nẵng
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="http://www.drt.danang.vn/images/drt2.png",DaNangTV2 - Truyền hình Đà Nẵng
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#EXTINF:1 group-title="VIET NAM TV" tvg-logo="http://www.trt.com.vn/Portals/0/TRT1.png",TRT - Truyền hình Thừa Thiên Huế
+https://livecdn.fptplay.net/sdc/hue_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://htvc.vn/uploads/cache/thumbnail/2019-04-08/5412686-binh-thuan-6.png",BTV6 - Truyền hình Bình Thuận
+https://livecdn.fptplay.net/sda/vietteen_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/781.png",PTP - Truyền hình Phú Yên 
+https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/791.png",KTV - Truyền hình Khánh Hòa
+https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/731.png",QBTV - Truyền hình Quảng Bình
+https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/761.png",PTQ - Truyền hình Quảng Ngãi
+http://203.171.21.216:1935/live/smil:PTQ.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/921.png",QRT - Truyền hình Quảng Nam
+https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/721.png",BR-VT - Truyền hình Bà Rịa Vũng Tàu
+https://livecdn.fptplay.net/sdc/bariavungtau_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/741.png",QRTV - Truyền hình Quảng Trị
+https://livecdn.fptplay.net/sdc/quangtri_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/601.png", ĐNRTV1 - Truyền hình Đồng Nai 1
+https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/602.png", ĐNRTV2 - Truyền hình Đồng Nai 2
+https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/811.png",THGL - Truyền hình Gia Lai
+http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/821.png",KRT - Truyền hình Kon Tum
+http://117.2.88.22/tv/kontumtv.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/481.png",PTD - Truyền hình DakNong
+https://htv-livecdn.fptplay.net/htvonline/daknong.480p.nimble.tms/chunklist.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/491.png",LTV - Truyền hình Lâm Đồng
+http://203.171.21.216:1935/live/smil:LTV.smil/chunklist.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://mytv.com.vn/upload/channel/771.png",BTV - Truyền hình Bình Định
+https://livecdn.fptplay.net/sda/binhdinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://media.baobinhphuoc.com.vn/upload/files/logo/bptv1.png",BPTV1 - Truyền hình Bình Phước
+https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
+#EXTINF:-1 group-title="VIET NAM TV" tvg-logo="https://media.baobinhphuoc.com.vn/upload/files/logo/bptv2.png",BPTV2 (Home TV) - Truyền hình Bình Phước
+https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
